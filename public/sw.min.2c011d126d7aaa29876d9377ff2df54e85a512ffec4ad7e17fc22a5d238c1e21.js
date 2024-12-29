@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/hardflaccidhub.com/sw.js",{scope:"/hardflaccidhub.com/"})
