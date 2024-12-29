@@ -1,15 +1,15 @@
 
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-# baseURL = 'https://example.com/'
-baseURL = 'https://hardflaccidhub.com/'
+baseURL = 'https://example.com/'
+# baseURL = 'https://hardflaccidhub.com/'
 
 title = 'Hard Flaccid Hub'
 theme = 'hugo-book'
 
 # Book configuration
 disablePathToLower = true
-enableGitInfo = true
+# enableGitInfo = true
 
 # Needed for mermaid/katex shortcodes
 [markup]
