@@ -23,22 +23,22 @@ enableGitInfo = true
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
-[languages]
-[languages.en]
-  languageName = 'English'
-  contentDir = 'content.en'
-  weight = 1
+# [languages]
+# [languages.en]
+#  languageName = 'English'
+#  contentDir = 'content.en'
+#  weight = 1
 
 [menu]
 # [[menu.before]]
 [[menu.after]]
-  name = "Github"
-  url = "https://github.com/alex-shpak/hugo-book"
+  name = "r/HardFlaccidGroup"
+  url = "https://www.reddit.com/r/HardFlaccidGroup/"
   weight = 10
 
 [[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/themes/hugo-book/"
+  name = "r/hardflaccidresearch"
+  url = "https://www.reddit.com/r/hardflaccidresearch/"
   weight = 20
 
 [params]
@@ -78,12 +78,12 @@ enableGitInfo = true
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath = 'edit/main/exampleSite'
+  # BookEditPath = 'edit/main/exampleSite'
 
   # Configure the date format used on the pages
   # - In git information
   # - In blog posts
-  BookDateFormat = 'January 2, 2006'
+  # BookDateFormat = 'January 2, 2006'
 
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
@@ -94,7 +94,7 @@ enableGitInfo = true
   # By default partals/docs/comments.html includes Disqus template
   # See https://gohugo.io/content-management/comments/#configure-disqus
   # Can be overwritten by same param in page frontmatter
-  BookComments = true
+  # BookComments = true
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables portable links and link checks in markdown pages.
