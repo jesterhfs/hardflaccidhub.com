@@ -23,23 +23,174 @@ disablePathToLower = true
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
-# [languages]
-# [languages.en]
-#  languageName = 'English'
-#  contentDir = 'content.en'
-#  weight = 1
+[languages]
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content.en'
+  languageCode = 'en-US'
+  weight = 1
+
+[languages.fr]
+  contentDir = 'content.fr'
+  languageName = 'Français'
+  weight = 2
+
+[languages.es]
+  contentDir = 'content.es'
+  languageName = 'Español'
+  languageCode = 'es-ES'
+  weight = 3
+
+[languages.pt]
+  contentDir = 'content.pt'
+  languageName = 'Português'
+  languageCode = 'pt-PT'
+  weight = 4
+
+[languages.it]
+  contentDir = 'content.it'
+  languageName = 'Italiano'
+  languageCode = 'it-IT'
+  weight = 5
+
+[languages.ro]
+  contentDir = 'content.ro'
+  languageName = 'Limba Română'
+  languageCode = 'ro-RO'
+  weight = 5.5
+
+[languages.de]
+  contentDir = 'content.de'
+  languageName = 'Deutsch'
+  languageCode = 'de-DE'
+  weight = 6
+
+[languages.nl]
+  contentDir = 'content.nl'
+  languageName = 'Nederlands'
+  languageCode = 'nl-NL'
+  weight = 7
+
+[languages.da]
+  contentDir = 'content.da'
+  languageName = 'Dansk'
+  languageCode = 'da-DK'
+  weight = 8
+
+[languages.nb]
+  contentDir = 'content.nb'
+  languageName = 'Norsk'
+  languageCode = 'nb-NO'
+  weight = 9
+
+[languages.sv]
+  contentDir = 'content.sv'
+  languageName = 'Svenska'
+  languageCode = 'sv-SE'
+  weight = 10
+
+[languages.fi]
+  contentDir = 'content.fi'
+  languageName = 'Suomi'
+  languageCode = 'fi-FI'
+  weight = 11
+
+[languages.et]
+  contentDir = 'content.et'
+  languageName = 'Eesti keel'
+  languageCode = 'et-EE'
+  weight = 12
+
+[languages.hu]
+  contentDir = 'content.hu'
+  languageName = 'Magyar'
+  languageCode = 'hu-HU'
+  weight = 13
+
+[languages.lv]
+  contentDir = 'content.lv'
+  languageName = 'Latviešu valoda'
+  languageCode = 'lv-LV'
+  weight = 14
+
+[languages.lt]
+  contentDir = 'content.lt'
+  languageName = 'Lietuvių kalba'
+  languageCode = 'lt-LT'
+  weight = 15
+
+[languages.pl]
+  contentDir = 'content.pl'
+  languageName = 'Polski'
+  languageCode = 'pl-PL'
+  weight = 16
+
+[languages.cs]
+  contentDir = 'content.cs'
+  languageName = 'Čeština'
+  languageCode = 'cs-CZ'
+  weight = 17
+
+[languages.sk]
+  contentDir = 'content.sk'
+  languageName = 'Slovenčina'
+  languageCode = 'sk-SK'
+  weight = 18
+
+[languages.ru]
+  contentDir = 'content.ru'
+  languageName = 'русский язык'
+  languageCode = 'ru-RU'
+  weight = 19
+
+[languages.sl]
+  contentDir = 'content.sl'
+  languageName = 'Slovenščina'
+  languageCode = 'sl-SI'
+  weight = 20
+
+[languages.hr]
+  contentDir = 'content.hr'
+  languageName = 'Hrvatski'
+  languageCode = 'hr-HR'
+  weight = 21
+
+[languages.sr]
+  contentDir = 'content.sr'
+  languageName = 'Srpski'
+  languageCode = 'sr-SP'
+  weight = 22
+
+[languages.bg]
+  contentDir = 'content.bg'
+  languageName = 'български език'
+  languageCode = 'bg-BG'
+  weight = 23
+
+[languages.el]
+  contentDir = 'content.el'
+  languageName = 'Ελληνικά'
+  languageCode = 'el-GR'
+  weight = 24
+
+[languages.tr]
+  contentDir = 'content.tr'
+  languageName = 'Türkçe'
+  languageCode = 'tr-TR'
+  weight = 25
+
 
 [menu]
 # [[menu.before]]
-[[menu.after]]
-  name = "r/HardFlaccidGroup"
-  url = "https://www.reddit.com/r/HardFlaccidGroup/"
-  weight = 10
+# [[menu.after]]
+#  name = "r/HardFlaccidGroup"
+#  url = "https://www.reddit.com/r/HardFlaccidGroup/"
+#  weight = 10
 
-[[menu.after]]
-  name = "r/hardflaccidresearch"
-  url = "https://www.reddit.com/r/hardflaccidresearch/"
-  weight = 20
+# [[menu.after]]
+#  name = "r/hardflaccidresearch"
+#  url = "https://www.reddit.com/r/hardflaccidresearch/"
+#  weight = 20
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
