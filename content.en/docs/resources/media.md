@@ -42,7 +42,7 @@ title: "Media"
 - [Transform Pelvic Health - Do Kegels and Edging Cause Hard Flaccid/Pelvic Floor Issues?](https://www.youtube.com/watch?v=SiRYUeW_Lfo)
 
 {{% hint info %}}
-David **Van Driessen** is the hippy teacher from the animated television series *Beavis and Butt-Head*.
+David **Van Driessen** is the hippie teacher from the animated television series *Beavis and Butt-Head*.
 {{% /hint %}}
 
 #### Lone Star Gnome and Comrade Calvit, the HFS Misinformation Czar (UnbrokenPelvis and btcalvit):
