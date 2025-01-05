@@ -22,7 +22,12 @@
 &lt;h3 id="etymology">
  Etymology
  &lt;a class="anchor" href="#etymology">#&lt;/a>
-&lt;/h3></description></item><item><title>Contact</title><link>http://localhost:1313/docs/about/contact-info/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/about/contact-info/</guid><description>&lt;h1 id="contact">
+&lt;/h3>
+&lt;h2 id="citations">
+ Citations
+ &lt;a class="anchor" href="#citations">#&lt;/a>
+&lt;/h2>
+&lt;hr></description></item><item><title>Contact</title><link>http://localhost:1313/docs/about/contact-info/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/about/contact-info/</guid><description>&lt;h1 id="contact">
  Contact
  &lt;a class="anchor" href="#contact">#&lt;/a>
 &lt;/h1>
@@ -70,10 +75,20 @@
  Symptoms
  &lt;a class="anchor" href="#symptoms">#&lt;/a>
 &lt;/h1>
+&lt;hr>
+&lt;h2 id="citations">
+ Citations
+ &lt;a class="anchor" href="#citations">#&lt;/a>
+&lt;/h2>
 &lt;hr></description></item><item><title>Causes</title><link>http://localhost:1313/docs/info/causes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/info/causes/</guid><description>&lt;h1 id="causes">
  Causes
  &lt;a class="anchor" href="#causes">#&lt;/a>
 &lt;/h1>
+&lt;hr>
+&lt;h2 id="citations">
+ Citations
+ &lt;a class="anchor" href="#citations">#&lt;/a>
+&lt;/h2>
 &lt;hr></description></item><item><title>Media</title><link>http://localhost:1313/docs/resources/media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/resources/media/</guid><description>&lt;h1 id="media">
  Media
  &lt;a class="anchor" href="#media">#&lt;/a>
@@ -135,24 +150,49 @@
  Pathophysiology
  &lt;a class="anchor" href="#pathophysiology">#&lt;/a>
 &lt;/h1>
-&lt;hr></description></item><item><title>Surveys</title><link>http://localhost:1313/docs/resources/surveys/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/resources/surveys/</guid><description>&lt;h1 id="surveys">
- Surveys
- &lt;a class="anchor" href="#surveys">#&lt;/a>
+&lt;hr>
+&lt;h2 id="citations">
+ Citations
+ &lt;a class="anchor" href="#citations">#&lt;/a>
+&lt;/h2>
+&lt;hr></description></item><item><title>Survey Data</title><link>http://localhost:1313/docs/resources/survey-data/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/resources/survey-data/</guid><description>&lt;h1 id="survey-data">
+ Survey Data
+ &lt;a class="anchor" href="#survey-data">#&lt;/a>
 &lt;/h1>
 &lt;hr></description></item><item><title>Diagnosis</title><link>http://localhost:1313/docs/info/diagnosis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/info/diagnosis/</guid><description>&lt;h1 id="diagnosis">
  Diagnosis
  &lt;a class="anchor" href="#diagnosis">#&lt;/a>
 &lt;/h1>
+&lt;hr>
+&lt;h2 id="citations">
+ Citations
+ &lt;a class="anchor" href="#citations">#&lt;/a>
+&lt;/h2>
 &lt;hr></description></item><item><title>Treatment</title><link>http://localhost:1313/docs/info/treatment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/info/treatment/</guid><description>&lt;h1 id="treatment">
  Treatment
  &lt;a class="anchor" href="#treatment">#&lt;/a>
 &lt;/h1>
+&lt;hr>
+&lt;h2 id="citations">
+ Citations
+ &lt;a class="anchor" href="#citations">#&lt;/a>
+&lt;/h2>
 &lt;hr></description></item><item><title>Prognosis</title><link>http://localhost:1313/docs/info/prognosis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/info/prognosis/</guid><description>&lt;h1 id="prognosis">
  Prognosis
  &lt;a class="anchor" href="#prognosis">#&lt;/a>
 &lt;/h1>
+&lt;hr>
+&lt;h2 id="citations">
+ Citations
+ &lt;a class="anchor" href="#citations">#&lt;/a>
+&lt;/h2>
 &lt;hr></description></item><item><title>Frequently Asked Questions</title><link>http://localhost:1313/docs/info/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/info/faq/</guid><description>&lt;h1 id="frequently-asked-questions">
  Frequently Asked Questions
  &lt;a class="anchor" href="#frequently-asked-questions">#&lt;/a>
 &lt;/h1>
-&lt;hr></description></item><item><title/><link>http://localhost:1313/posts/test/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/test/</guid><description/></item></channel></rss>
+&lt;hr>
+&lt;h2 id="citations">
+ Citations
+ &lt;a class="anchor" href="#citations">#&lt;/a>
+&lt;/h2>
+&lt;hr></description></item><item><title/><link>http://localhost:1313/posts/news-and-updates/test/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/news-and-updates/test/</guid><description/></item></channel></rss>

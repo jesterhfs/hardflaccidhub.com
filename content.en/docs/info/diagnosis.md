@@ -6,3 +6,7 @@ title: "Diagnosis"
 # Diagnosis
 
 ---
+
+## Citations
+
+---

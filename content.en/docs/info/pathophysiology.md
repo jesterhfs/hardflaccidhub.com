@@ -6,3 +6,7 @@ title: "Pathophysiology"
 # Pathophysiology
 
 ---
+
+## Citations
+
+---

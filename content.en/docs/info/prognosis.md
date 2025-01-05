@@ -6,3 +6,7 @@ title: "Prognosis"
 # Prognosis
 
 ---
+
+## Citations
+
+---

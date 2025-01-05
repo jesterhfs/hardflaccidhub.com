@@ -10,3 +10,7 @@ title: "What is Hard Flaccid Syndrome?"
 ## History 
 
 ### Etymology
+
+## Citations
+
+---
