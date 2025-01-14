@@ -10,10 +10,20 @@
 &lt;h3 id="etymology">
  Etymology
  &lt;a class="anchor" href="#etymology">#&lt;/a>
-&lt;/h3></description></item><item><title>Symptoms</title><link>http://localhost:1313/docs/info/symptoms/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/info/symptoms/</guid><description>&lt;h1 id="symptoms">
+&lt;/h3>
+&lt;h2 id="citations">
+ Citations
+ &lt;a class="anchor" href="#citations">#&lt;/a>
+&lt;/h2>
+&lt;hr></description></item><item><title>Symptoms</title><link>http://localhost:1313/docs/info/symptoms/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/info/symptoms/</guid><description>&lt;h1 id="symptoms">
  Symptoms
  &lt;a class="anchor" href="#symptoms">#&lt;/a>
 &lt;/h1>
+&lt;hr>
+&lt;h2 id="citations">
+ Citations
+ &lt;a class="anchor" href="#citations">#&lt;/a>
+&lt;/h2>
 &lt;hr></description></item><item><title>Causes</title><link>http://localhost:1313/docs/info/causes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/info/causes/</guid><description>&lt;h1 id="causes">
  Causes
  &lt;a class="anchor" href="#causes">#&lt;/a>
@@ -27,6 +37,11 @@
  Pathophysiology
  &lt;a class="anchor" href="#pathophysiology">#&lt;/a>
 &lt;/h1>
+&lt;hr>
+&lt;h2 id="citations">
+ Citations
+ &lt;a class="anchor" href="#citations">#&lt;/a>
+&lt;/h2>
 &lt;hr></description></item><item><title>Diagnosis</title><link>http://localhost:1313/docs/info/diagnosis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/info/diagnosis/</guid><description>&lt;h1 id="diagnosis">
  Diagnosis
  &lt;a class="anchor" href="#diagnosis">#&lt;/a>
@@ -40,12 +55,27 @@
  Treatment
  &lt;a class="anchor" href="#treatment">#&lt;/a>
 &lt;/h1>
+&lt;hr>
+&lt;h2 id="citations">
+ Citations
+ &lt;a class="anchor" href="#citations">#&lt;/a>
+&lt;/h2>
 &lt;hr></description></item><item><title>Prognosis</title><link>http://localhost:1313/docs/info/prognosis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/info/prognosis/</guid><description>&lt;h1 id="prognosis">
  Prognosis
  &lt;a class="anchor" href="#prognosis">#&lt;/a>
 &lt;/h1>
+&lt;hr>
+&lt;h2 id="citations">
+ Citations
+ &lt;a class="anchor" href="#citations">#&lt;/a>
+&lt;/h2>
 &lt;hr></description></item><item><title>Frequently Asked Questions</title><link>http://localhost:1313/docs/info/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/info/faq/</guid><description>&lt;h1 id="frequently-asked-questions">
  Frequently Asked Questions
  &lt;a class="anchor" href="#frequently-asked-questions">#&lt;/a>
 &lt;/h1>
+&lt;hr>
+&lt;h2 id="citations">
+ Citations
+ &lt;a class="anchor" href="#citations">#&lt;/a>
+&lt;/h2>
 &lt;hr></description></item></channel></rss>
